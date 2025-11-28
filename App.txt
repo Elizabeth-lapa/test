@@ -1,0 +1,4 @@
+server_name=ubuntu24
+version=24.04
+ip=192.168.1.211
+url=123
